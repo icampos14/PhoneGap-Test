@@ -3,8 +3,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.projecte_info_4t"
-        versionCode = "20" 
-        version     = "1.0.20" >
+        versionCode = "0" 
+        version     = "1.0.0" >
 	
 	<!-- versionCode is optional and Android only -->
 
@@ -16,8 +16,8 @@
        Aplicació phonegap del salumnes de 4t info Curs 2015 2016
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="icampos14@iesnumancia.cat">
+       Iván Campos, Enrique López
     </author>
 
 	<content src="index.html"/>
